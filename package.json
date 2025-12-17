@@ -1,0 +1,11 @@
+{
+  "name": "simple-addition",
+  "version": "1.0.0",
+  "description": "Simple Node.js add function with assert test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
