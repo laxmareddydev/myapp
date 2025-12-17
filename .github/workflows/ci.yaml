@@ -23,7 +23,7 @@ jobs:
       - name: Deploy
         run: |
           echo "Deploying to ${{ vars.STAGE}}"
-          echo "Devs api key is ${{ secrets.}}"
+          echo "Devs api key is ${{ secrets.DEV_API_KEY }}"
 
 
         
